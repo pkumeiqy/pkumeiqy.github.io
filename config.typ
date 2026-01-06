@@ -11,5 +11,5 @@
     "/CV/": "CV",
   ),
   lang: "zh",
-  title: "Tufted Blog Template",  // 你的网站在浏览器中显示的标题
+  title: "Welcome to mqy's website!",  // 你的网站在浏览器中显示的标题
 )
