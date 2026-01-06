@@ -13,7 +13,7 @@
 #link("CV-PDF.pdf")[[PDF version is available! Click me!]]
 
 Research in statistical evidence and analytical design for information visualization, integrating principles from statistics, graphic design, and cognitive science for the effective presentation of quantitative data.
-
+Hello
 == Experience
 
 - *1983--Present*: Founder & Publisher, Graphics Press. Independent publishing house specializing in information design and data visualization.
