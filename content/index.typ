@@ -50,7 +50,7 @@
 
 // 我在目前的网站中包含了尽可能多的 Typst 用例#footnote[例如文字、段落、分级标题、引用块、代码块、有序列表、无序列表、表格、图片、公式、链接、脚注、参考文献、嵌入 markdown 等。这块文字便是脚注，使用 `#footnote()` 函数编写。]，你可以在源代码中看到这些内容的 Typst 实现。我也包含了丰富的文档来帮助你编写页面和部署网站，你可以在 #link("/Docs/")[Docs] 页看到这些文档。
 
-satopikac是北京大学工学院#footnote[学院官网请见#link("https://coe.pku.edu.cn/")[coe] ]机器人工程专业的本科生，致力于完善具身智能技术并在工业应用领域发挥力量。即将入学北京大学先进制造与机器人学院#footnote[学院官网请见#link("https://amr.pku.edu.cn/")[amr] ]攻读机械硕士。
+satopikac是北京大学工学院#footnote[学院官网请见#link("https://www.coe.pku.edu.cn/")[coe] ]机器人工程专业的本科生，致力于完善具身智能技术并在工业应用领域发挥力量。即将入学北京大学先进制造与机器人学院#footnote[学院官网请见#link("https://amr.pku.edu.cn/")[amr] ]攻读机械硕士。
 // == 🎨 样式特点
 
 // #link("https://edwardtufte.github.io/tufte-css/")[*Tufte 样式*] 源于数据可视化大师 Edward Tufte#footnote[爱德华·罗尔夫·塔夫特（生于1942年3月14日），常被称为“ET”，是美国统计学家，耶鲁大学政治学、统计学与计算机科学荣休教授。他因在信息设计领域的著述和作为数据可视化领域的先驱而闻名。] 的设计理念，主张“内容至上”与极简主义，力求去除一切干扰信息的视觉杂音。
