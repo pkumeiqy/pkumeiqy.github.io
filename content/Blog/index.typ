@@ -3,6 +3,9 @@
 
 = 博客 / Blog
 
+== 2026
+- #link("2026-01-13-habitat-use/")[Habitat使用踩雷]
+
 == 2025
 
 - #link("2025-10-30-normal-distribution/")[Normal Distribution]
