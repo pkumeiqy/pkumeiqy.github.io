@@ -3,6 +3,9 @@
 
 = Habitat使用踩雷，写在完成毕业设计的途中
 
+
+Habitat是一个具身智能仿真平台，由facebook开发，官网上给出的安装教程存在一定的坑。
+
 When visiting a zoo or watching nature documentaries, it's easy to use "monkey" and "ape" interchangeably.#footnote[Both monkeys and apes belong to the order Primates, which includes over 500 species worldwide.] However, these terms describe two distinct groups of primates with fundamental differences.
 
 // #tufted.margin-note(
