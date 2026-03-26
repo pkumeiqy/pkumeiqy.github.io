@@ -62,6 +62,8 @@ Mei Qingyu是北京大学工学院#footnote[学院官网请见#link("https://www
 // $
 //   integral _a ^b f(x) dif x=F(b)-F(a)
 // $
-//#figure(caption: "beautiful image")[#image("imgs/pksm.jpg")]
+
 
 非常感谢开源仓库#link("https://github.com/Yousa-Mirage/Tufted-Blog-Template")[Tufted-Blog-Template]提供了如此漂亮的主页模板，2026年1月6日。
+
+#tufted.full-width[#figure(caption: "生命不息，攀登不止。摄于海淀三峰。")[#image("imgs/outdoor.jpg")]]

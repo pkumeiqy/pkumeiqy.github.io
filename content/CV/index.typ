@@ -3,6 +3,9 @@
 #import "@preview/citegeist:0.2.0": load-bibliography
 
 = Mei Qingyu 梅庆宇
+#tufted.margin-note[
+  #image("me.png",width: 250pt)
+]
 
 #tufted.margin-note[
     College of Engineering\
@@ -18,14 +21,15 @@
 
 Research in AI + Robotics, interests including Embodied Intelligence, Robot RL,Vision-Language-Action (VLA) Models, Multimodal Fusion, and Multi-Robot Collaboration, dedicated to advancing intelligent robotics technology and applications.
 #tufted.margin-note[
-  #image("spring.jpg")
+Images below show a whole year in PKU]
+== Education
+#tufted.margin-note[
+  #image("spring.jpg",width: 250pt)
 ]
 
 #tufted.margin-note[
  Spring days in PKU
 ]
-
-== Education
 
 *2022--Present*: 
 
@@ -34,7 +38,7 @@ Peking University, College of Engineering, Bachelor of Engineering in Robotics E
 
 Peking University, School of Advanced Manufacturing and Robotics, Master of Mechanical Engineering (Commencing September 2026)
 #tufted.margin-note[
-  #image("summer.jpg")
+  #image("summer.jpg",width: 250pt)
 ]
 
 #tufted.margin-note[
@@ -47,13 +51,7 @@ Theoretical Mechanics, Advanced Dynamics, Introduction to Robotics, Principles o
 
 // == Artworks
 
-#tufted.margin-note[
-  #image("1.jpg")
-]
 
-#tufted.margin-note[
-  beautiful autumn days in Peking University campus
-]
 
 // Founder of Hogpen Hill Farms, a 234-acre sculpture park in Woodbury, Connecticut. Creator of large-scale works including _Larkin’s Twig_ and the _Escaping Flatland_ series, exhibited at the Aldrich Contemporary Art Museum.
 
@@ -68,16 +66,17 @@ Theoretical Mechanics, Advanced Dynamics, Introduction to Robotics, Principles o
 - Engaged in semantic navigation technology research and point cloud semantic segmentation development
 - Explored multi-robot collaboration mechanisms for coordinated tasks
 
+#tufted.margin-note[
+  #image("1.jpg",width: 250pt)
+]
+
+#tufted.margin-note[
+  beautiful autumn days in Peking University campus
+]
+
 *2025--Present: An Embodied AI Agent for Semantic Perception and  Navigation*
 - We develop a robotic embodied navigation agent and propose a hierarchical agent design. The agent perceives the robot’s environment, acquires environmental semantic information, understands and assigns natural language navigation commands, and controls multiple robots to accomplish collaborative tasks.
 
-#tufted.margin-note[
-  #image("2.jpg")
-]
-
-#tufted.margin-note[
- And winter days
-]
 
 == Academic Awards
 
@@ -86,6 +85,15 @@ Theoretical Mechanics, Advanced Dynamics, Introduction to Robotics, Principles o
 - *2024*: Third Prize of Peking University
 - *2024*: Model Student of Academic Records, Peking University
 - *2023*: Merit Student of Peking University
+
+
+#tufted.margin-note[
+  #image("2.jpg",width:250pt)
+]
+
+#tufted.margin-note[
+ And winter days
+]
 
 // #tufted.margin-note[
 //   #image("773345.png")
