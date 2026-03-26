@@ -64,6 +64,6 @@ Mei Qingyu是北京大学工学院#footnote[学院官网请见#link("https://www
 // $
 将在本网站分享一些技术博客和思考，以及收藏的一些电子书等。
 
-非常感谢开源仓库#link("https://github.com/Yousa-Mirage/Tufted-Blog-Template")[Tufted-Blog-Template]提供了如此漂亮的主页模板，2026年1月6日。
+感谢开源仓库#link("https://github.com/Yousa-Mirage/Tufted-Blog-Template")[Tufted-Blog-Template]提供的网页模板。
 
 #tufted.full-width[#figure(caption: "生命不息，攀登不止。摄于海淀三峰。")[#image("imgs/outdoor.jpg")]]
