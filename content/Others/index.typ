@@ -2,7 +2,7 @@
 #show: template.with(title: "Others")
 
 = 其他 / Others
-
+  - #link("./Resources/Python编程三剑客.pdf")[资源：python编程三剑客电子书]。
 // == 2026
 // - #link("2026-01-13-habitat-use/")[Habitat使用踩雷]
 

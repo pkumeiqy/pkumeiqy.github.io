@@ -27,10 +27,10 @@ Research in AI + Robotics, interests including Embodied Intelligence, Robot RL,V
 
 == Education
 
-- *2022--Present*: 
+*2022--Present*: 
 
 Peking University, College of Engineering, Bachelor of Engineering in Robotics Engineering. GPA: 3.742/4.0 (Rank: 3rd in Major)
-- *2026--*:
+*2026--*:
 
 Peking University, School of Advanced Manufacturing and Robotics, Master of Mechanical Engineering (Commencing September 2026)
 #tufted.margin-note[
