@@ -36,9 +36,9 @@
 // 其最鲜明的特点是采用*宽大的侧边栏布局*，将注释、参考文献和图表直接并排展示在正文旁，取代了传统的脚注或尾注，配合优雅的*衬线字体*与*类纸张背景*，在数字屏幕上复刻了如经典学术著作般清晰、优雅、沉浸的深度阅读体验。
 
 // 非常感谢开源仓库，2026年1月6日。
-= 欢迎来到satopikac的个人主页！
+= 欢迎来到Mei QY的个人主页！
 
-= Welcome to satopikac's website!
+= Welcome to Mei QY's website!
 
 // 这是一个基于 #link("https://typst.app/")[Typst] 和 #link("https://github.com/vsheg/tufted")[Tufted] 的静态网站构建模板，手把手教你搭建简洁、美观的个人博客、作品集和简历设计。
 
@@ -50,7 +50,7 @@
 
 // 我在目前的网站中包含了尽可能多的 Typst 用例#footnote[例如文字、段落、分级标题、引用块、代码块、有序列表、无序列表、表格、图片、公式、链接、脚注、参考文献、嵌入 markdown 等。这块文字便是脚注，使用 `#footnote()` 函数编写。]，你可以在源代码中看到这些内容的 Typst 实现。我也包含了丰富的文档来帮助你编写页面和部署网站，你可以在 #link("/Docs/")[Docs] 页看到这些文档。
 
-satopikac是北京大学工学院#footnote[学院官网请见#link("https://www.coe.pku.edu.cn/")[coe] ]机器人工程专业的本科生，致力于完善具身智能技术并在工业应用领域发挥力量。即将入学北京大学先进制造与机器人学院#footnote[学院官网请见#link("https://amr.pku.edu.cn/")[amr] ]攻读机械硕士。
+Mei Qingyu是北京大学工学院#footnote[学院官网请见#link("https://www.coe.pku.edu.cn/")[coe] ]机器人工程专业的本科生，致力于完善具身智能、智能机器人技术并在工业应用领域发挥力量。即将入学北京大学先进制造与机器人学院#footnote[学院官网请见#link("https://amr.pku.edu.cn/")[amr] ]攻读机械硕士。
 // == 🎨 样式特点
 
 // #link("https://edwardtufte.github.io/tufte-css/")[*Tufte 样式*] 源于数据可视化大师 Edward Tufte#footnote[爱德华·罗尔夫·塔夫特（生于1942年3月14日），常被称为“ET”，是美国统计学家，耶鲁大学政治学、统计学与计算机科学荣休教授。他因在信息设计领域的著述和作为数据可视化领域的先驱而闻名。] 的设计理念，主张“内容至上”与极简主义，力求去除一切干扰信息的视觉杂音。
@@ -58,10 +58,10 @@ satopikac是北京大学工学院#footnote[学院官网请见#link("https://www.
 // #link("https://edwardtufte.github.io/tufte-css/")[*The Tufte style*] originates from the design philosophy of data visualization master _Edward Tufte_#footnote[Edward Rolf Tufte (/ˈtʌfti/; born March 14, 1942), sometimes known as "ET", is an American statistician and professor emeritus of political science, statistics, and computer science at Yale University. He is noted for his writings on information design and as a pioneer in the field of data visualization.], advocating for a "content-first" approach and minimalism while striving to eliminate all visual noise that distracts from the information.
 
 // 其最鲜明的特点是采用*宽大的侧边栏布局*，将注释、参考文献和图表直接并排展示在正文旁，取代了传统的脚注或尾注，配合优雅的*衬线字体*与*类纸张背景*，在数字屏幕上复刻了如经典学术著作般清晰、优雅、沉浸的深度阅读体验。
-将在本网站给出自己研究中的一些经验or踩坑，以及一些感想供参考。
+//将在本网站给出自己研究中的一些经验or踩坑，以及一些感想供参考。
 // $
 //   integral _a ^b f(x) dif x=F(b)-F(a)
 // $
-#figure(caption: "beautiful image")[#image("imgs/pksm.jpg")]
+//#figure(caption: "beautiful image")[#image("imgs/pksm.jpg")]
 
 非常感谢开源仓库#link("https://github.com/Yousa-Mirage/Tufted-Blog-Template")[Tufted-Blog-Template]提供了如此漂亮的主页模板，2026年1月6日。
