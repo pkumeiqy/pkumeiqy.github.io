@@ -62,7 +62,7 @@ Mei Qingyu是北京大学工学院#footnote[学院官网请见#link("https://www
 // $
 //   integral _a ^b f(x) dif x=F(b)-F(a)
 // $
-
+将在本网站分享一些技术博客和思考，以及收藏的一些电子书等。
 
 非常感谢开源仓库#link("https://github.com/Yousa-Mirage/Tufted-Blog-Template")[Tufted-Blog-Template]提供了如此漂亮的主页模板，2026年1月6日。
 
