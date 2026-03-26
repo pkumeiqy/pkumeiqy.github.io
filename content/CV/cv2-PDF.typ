@@ -62,7 +62,7 @@ If this is your first resume, I'd recommend sticking with this formatting for no
 
 #show: resume.with(
   author: "梅庆宇 Mei Qingyu",
-  location: "telephone: XXX-XXXX
+  location: "telephone: XXX-XXXX-XXXX
   Beijing,China  
 
 Born In June,2005 | Male | College Of Engineering,Peking University",
@@ -124,18 +124,18 @@ On the other hand, there is a risk that somebody out there is still printing sta
 #edu(
   institution: "Peking University, College of Engineering,",
   date: "Sept. 2022-present",
-  gpa: "3.742 of 4.0, ranking 3rd ",
+  gpa: "3.742 of 4.0, ranking 2nd ",
   degrees: (
     ("Bachelor of Engineering", "Robotics Engineering"),
   ),
  
 )
-*Core Courses*: Theoretical Mechanics, Advanced Dynamics, Introduction to Robotics, Principles of Automatic Control, Signals and Systems, Analog and Digital Electronics, Robotics Dynamics, Machine Learning, Fundamentals of Large Language Models
+*Core Courses*: Theoretical Mechanics, Advanced Dynamics, Robotics, Principles of Automatic Control, Signals and Systems, Analog and Digital Electronics, Robotics Dynamics, Machine Learning and Deep Learning, Fundamentals of Large Language Models
 #edu(
-  institution: "Peking University, School of Advanced Manufacturing and Robotics",
+  institution: "Peking University, School of Advanced Manufacturing and Robotics先进制造与机器人学院",
   date: "",
   degrees: (
-    ("Master of Mechanical Engineering", "Commencing Sept. 2026"),
+    ("Master of Mechanical Engineering机械硕士", "Commencing Sept. 2026"),
     // ("Minors", "Automobile Design, Arabic"),
     // ("Focus", "Childcare, Education")
   ),
@@ -199,23 +199,23 @@ Prior to graduating, I opted to go with option 2 and never ran into issues. In g
 
 = Academic Awards
 #edu(
-  institution: "the Merit Student of Peking University",
+  institution: "the Merit Student of Peking University北京大学三好学生",
   date: "Sept.2023",
 )
 #edu(
-  institution: "the Third Prize of Peking University",
+  institution: "the Third Prize of Peking University北京大学三等奖学金",
   date: "Sept.2024",
 )
 #edu(
-  institution: "the Model Student of Academic Records",
+  institution: "the Model Student of Academic Records北京大学学习优秀奖",
   date: "Sept.2024",
 )
 #edu(
-  institution: "Pacemaker to Merit Student",
+  institution: "Pacemaker to Merit Student三好学生标兵",
   date: "Sept.2025",
 )
 #edu(
-  institution: "National Scholarship",
+  institution: "National Scholarship国家奖学金",
   date: "Sept.2025",
 )
 = Skills
@@ -233,6 +233,7 @@ Prior to graduating, I opted to go with option 2 and never ran into issues. In g
   ("Software (partial list)", (
     [AutoDesk Fusion],
     [Solidworks],
+    [Linux and ROS]
   //  [Windows 1],
     // [Microsoft Word],
     // [Car Maintenance],
@@ -243,6 +244,7 @@ Prior to graduating, I opted to go with option 2 and never ran into issues. In g
     [MatLab],
     //[Punch Cards],
      [Python],
+     [Pytorch]
     // [C\#]
   )),
    ("English Level", (
@@ -254,7 +256,6 @@ Prior to graduating, I opted to go with option 2 and never ran into issues. In g
     // [C\#]
   ))
 ))
-
 /*
 
 ==================
@@ -637,9 +638,13 @@ details: [
 ]
 )
 #exp(role: "Project Participant",project: "Semantic Navigation, 
-Point Cloud Semantic Segmentation and Multi-Robot Collaboration",date: "present",details: [
+Point Cloud Semantic Segmentation and Multi-Robot Collaboration",date: "Developing",details: [
 - Engaged in semantic navigation technology research and point cloud semantic segmentation development
 - Explored multi-robot collaboration mechanisms for coordinated tasks
+]
+)
+#exp(role: "Project Developer",project: "An Embodied AI Agent for Semantic Perception and  Navigation",date: "Developing",details: [
+- We develop a robotic embodied navigation agent and propose a hierarchical agent design. The agent perceives the robot’s environment, acquires environmental semantic information, understands and assigns natural language navigation commands, and controls multiple robots to accomplish collaborative tasks.
 ]
 )
 // = Volunteering

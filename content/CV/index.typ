@@ -2,7 +2,7 @@
 #show: template.with(title: "Mei Qingyu 简历")
 #import "@preview/citegeist:0.2.0": load-bibliography
 
-= Mei Qingyu
+= Mei Qingyu 梅庆宇
 
 #tufted.margin-note[
     College of Engineering\
@@ -16,7 +16,7 @@
 
 #link("cv2-PDF.pdf")[[PDF version is available! Click me!]]
 
-Research in AI + Robotics, interests including Embodied Intelligence, Vision-Language-Action (VLA) Models, Multimodal Fusion, and Multi-Robot Collaboration, dedicated to advancing intelligent robotics technology and applications.
+Research in AI + Robotics, interests including Embodied Intelligence, Robot RL,Vision-Language-Action (VLA) Models, Multimodal Fusion, and Multi-Robot Collaboration, dedicated to advancing intelligent robotics technology and applications.
 #tufted.margin-note[
   #image("spring.jpg")
 ]
@@ -68,6 +68,9 @@ Theoretical Mechanics, Advanced Dynamics, Introduction to Robotics, Principles o
 - Engaged in semantic navigation technology research and point cloud semantic segmentation development
 - Explored multi-robot collaboration mechanisms for coordinated tasks
 
+*2025--Present: An Embodied AI Agent for Semantic Perception and  Navigation*
+- We develop a robotic embodied navigation agent and propose a hierarchical agent design. The agent perceives the robot’s environment, acquires environmental semantic information, understands and assigns natural language navigation commands, and controls multiple robots to accomplish collaborative tasks.
+
 #tufted.margin-note[
   #image("2.jpg")
 ]
@@ -84,13 +87,13 @@ Theoretical Mechanics, Advanced Dynamics, Introduction to Robotics, Principles o
 - *2024*: Model Student of Academic Records, Peking University
 - *2023*: Merit Student of Peking University
 
-#tufted.margin-note[
-  #image("773345.png")
-]
+// #tufted.margin-note[
+//   #image("773345.png")
+// ]
 
-#tufted.margin-note[
-  Love Pokémon Series, Games and Animes
-]
+// #tufted.margin-note[
+//   Love Pokémon Series, Games and Animes
+// ]
 
 == Technical Skills
 
